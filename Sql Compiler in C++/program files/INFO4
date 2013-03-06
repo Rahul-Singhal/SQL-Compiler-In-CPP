@@ -1,0 +1,9 @@
+TRAINNAME,CHAR	TRAINNUM,INT	ORIGIN,CHAR	DESTINATION,CHAR	
+konarkan	12109	vizag	mumbai	
+rajdhani	11209	chennai	newdelhi	
+avantika	14509	delhi	mumbai	
+gitanjali	15908	nagpur	mumbai	
+eastcoast	24898	kolkata	chennai	
+prashanti	12676	jaipur	vijayawada	
+shatabdhi	14759	mumbai	newdelhi	
+

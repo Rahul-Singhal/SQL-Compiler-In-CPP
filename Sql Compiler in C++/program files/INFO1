@@ -1,0 +1,8 @@
+NAME,CHAR	POSITION,INT	SPEED,FLOAT	TEAM,CHAR	
+Vettel	1	286.5	redbull	
+Alonso	2	283.4	ferrari	
+button	5	280	redbull	
+webber	3	276	mclaren	
+shuma	4	250	ferrari	
+kartik	6	210	renault	
+
